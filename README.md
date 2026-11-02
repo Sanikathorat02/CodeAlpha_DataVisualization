@@ -1,4 +1,4 @@
-# CodeAlpha Internship – Task 3: Data Visualization
+# CodeAlpha Internship – Task 2: Data Visualization
 
 ## Objective
 Transform raw sales data into clear visuals and data stories that support business decisions.
